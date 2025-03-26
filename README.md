@@ -6,3 +6,5 @@ This project achieved a better mAP@0.5 score (0.548788011) during the pretrainin
 You can download our results from the following URL:
 pretrain:[baidudisk](https://pan.baidu.com/s/1igjX_cAxPrjg_QBIR_ZR5Q?pwd=jxgg).
 train:[baidudisk](https://pan.baidu.com/s/18kAV4zT_rif6OPrLLMcyxw?pwd=x8g3).
+
+For project usage, please refer to the following URL:[github](https://github.com/YFMika/3D-DETR-Caption/edit/main/README.md).
