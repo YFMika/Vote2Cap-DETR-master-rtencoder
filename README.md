@@ -12,4 +12,4 @@ pretrain:[baidudisk](https://pan.baidu.com/s/1igjX_cAxPrjg_QBIR_ZR5Q?pwd=jxgg).
 train:[baidudisk](https://pan.baidu.com/s/18kAV4zT_rif6OPrLLMcyxw?pwd=x8g3).
 
 Our code is tested with PyTorch 2.0.0, CUDA 11.8 and Python 3.8.20.
-For project usage, please refer to the following URL: [github](https://github.com/YFMika/3D-DETR-Caption/edit/main/README.md).
+For project usage, please refer to the following URL: [github](https://github.com/YFMika/3D-DETR-Caption/blob/main/README.md).
