@@ -1,7 +1,7 @@
 # Vote2Cap-DETR-master-rtencoder
 This project builds on "End-to-End 3D Dense Captioning with Vote2Cap-DETR" and "Vote2Cap-DETR++." It replaces the original encoder with an encoder similar to the one in RT-DETR.
 
-![30bb77952037efc1f6b978cb777dc95d](https://github.com/user-attachments/assets/ab68423e-9197-4bdb-a7be-dae6a6563fdb)
+![c1d5c5c06b0dbb855e3896741b490946](https://github.com/user-attachments/assets/12cdb91c-0618-4e66-9a64-3175affba9b3)
 
 
 This project achieved a better mAP@0.5 score (0.548788011) during the pretraining phase. However, unfortunately, its performance during the training phase was not as satisfactory.
