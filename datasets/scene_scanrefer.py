@@ -23,12 +23,12 @@ from transformers import GPT2Tokenizer
 
 IGNORE_LABEL = -100
 MEAN_COLOR_RGB = np.array([109.8, 97.2, 83.8])
-BASE = "/home/junbo/feiyang"  ## Replace with path to dataset
+BASE = "."  ## Replace with path to dataset
 DATASET_ROOT_DIR = os.path.join(BASE, "data", "scannet", "scannet_data")
 DATASET_METADATA_DIR = os.path.join(BASE, "data", "scannet", "meta_data")
 
 
-DATA_ROOT = os.path.join('/home/junbo/feiyang', 'data')
+DATA_ROOT = os.path.join('.', 'data')
 SCANREFER = {
     'language': {
         'train': json.load(
