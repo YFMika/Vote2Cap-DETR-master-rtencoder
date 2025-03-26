@@ -12,5 +12,4 @@ python main.py \
     --detector detector_Vote2Cap_DETRv2 \
     --captioner captioner_dccv2 \
     --checkpoint_dir exp_scanrefer/Vote2Cap_DETRv2_RGB_NORMAL \
-    --max_epoch 720 \
-    --gpu 3
+    --max_epoch 720
