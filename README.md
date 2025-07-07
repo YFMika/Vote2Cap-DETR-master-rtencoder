@@ -8,8 +8,8 @@ This project achieved a better mAP@0.5 score (0.548788011) during the pretrainin
 
 You can download our results from following URLs: 
 
-pretrain:[baidudisk](https://pan.baidu.com/s/1igjX_cAxPrjg_QBIR_ZR5Q?pwd=jxgg).
-train:[baidudisk](https://pan.baidu.com/s/18kAV4zT_rif6OPrLLMcyxw?pwd=x8g3).
+pretrain:[baidudisk](https://pan.baidu.com/s/1ghCornewCzoQtb1Y_Wlmbg?pwd=pin6).
+train:[baidudisk](https://pan.baidu.com/s/1Qmgu01xq2woqv32BmcOAvw?pwd=ksgc).
 
 Our code is tested with PyTorch 2.0.0, CUDA 11.8 and Python 3.8.20.
 For project usage, please refer to the following URL: [github](https://github.com/YFMika/3D-DETR-Caption/blob/main/README.md).
